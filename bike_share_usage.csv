@@ -1,0 +1,251 @@
+date,city,member_type,avg_temperature_f,precipitation_inches,total_rides,avg_trip_minutes,day_of_week
+2024-06-11,San Francisco,Member,77.2,0.01,17323,16.6,Tuesday
+2024-08-27,Chicago,Casual,67.9,0.06,17526,24.3,Tuesday
+2024-06-01,New York,Member,63.5,0.07,12313,18.6,Saturday
+2024-03-15,Chicago,Member,72.0,0.28,14195,19.9,Friday
+2024-06-15,Chicago,Member,60.8,0.11,20273,11.9,Saturday
+2024-05-11,San Francisco,Member,63.6,0.29,11744,15.6,Saturday
+2024-09-05,New York,Member,72.4,0.34,9100,11.0,Thursday
+2024-03-21,San Francisco,Member,90.8,0.33,19120,17.5,Thursday
+2024-06-11,San Francisco,Casual,63.8,0.05,17861,20.0,Tuesday
+2024-06-30,New York,Member,53.2,0.02,12717,12.4,Sunday
+2024-09-27,Chicago,Member,29.6,0.61,11625,28.2,Friday
+2024-10-01,Chicago,Member,89.4,0.13,11641,19.4,Tuesday
+2024-05-14,New York,Member,56.1,0.26,13990,18.3,Tuesday
+2024-09-19,Chicago,Casual,68.0,0.28,17657,21.8,Thursday
+2024-05-27,New York,Member,88.6,0.13,13656,13.9,Monday
+2024-06-25,New York,Member,63.4,0.3,16567,18.8,Tuesday
+2024-06-08,San Francisco,Member,57.1,0.27,15135,14.4,Saturday
+2024-06-12,New York,Member,81.3,0.22,16545,25.8,Wednesday
+2024-07-30,San Francisco,Casual,66.9,0.1,13023,12.7,Tuesday
+2024-07-09,Chicago,Member,68.8,0.11,13468,18.3,Tuesday
+2024-07-28,Chicago,Member,37.2,0.24,7467,19.6,Sunday
+2024-04-22,Chicago,Member,78.1,0.08,13263,20.0,Monday
+2024-03-02,Chicago,Member,65.6,0.15,17814,15.1,Saturday
+2024-05-27,San Francisco,Member,39.4,0.04,10708,13.5,Monday
+2024-10-22,Chicago,Member,67.3,0.24,11871,15.2,Tuesday
+2024-08-05,New York,Member,29.1,0.19,14704,20.6,Monday
+2024-04-07,New York,Member,95.1,0.37,16272,17.3,Sunday
+2024-07-08,New York,Casual,43.5,0.29,15229,22.0,Monday
+2024-09-08,San Francisco,Member,84.2,0.15,11578,20.4,Sunday
+2024-09-04,Chicago,Member,47.8,0.25,21104,6.6,Wednesday
+2024-03-21,Chicago,Casual,68.4,0.3,10488,19.2,Thursday
+2024-08-08,Chicago,Casual,46.3,0.0,14314,29.3,Thursday
+2024-09-20,San Francisco,Member,75.0,0.03,14464,24.6,Friday
+2024-04-27,New York,Member,56.5,0.08,10540,20.1,Saturday
+2024-03-22,New York,Member,67.0,0.0,13569,12.7,Friday
+2024-10-22,Chicago,Member,60.2,0.3,13877,20.4,Tuesday
+2024-05-28,New York,Casual,39.5,0.03,11570,21.7,Tuesday
+2024-04-18,New York,Casual,67.6,0.35,16815,16.7,Thursday
+2024-10-05,San Francisco,Member,52.5,0.03,13555,19.6,Saturday
+2024-04-28,San Francisco,Member,75.7,0.19,10624,25.5,Sunday
+2024-08-17,San Francisco,Casual,56.5,0.13,9721,13.7,Saturday
+2024-10-06,San Francisco,Member,58.8,0.1,15970,12.7,Sunday
+2024-09-04,Chicago,Member,85.2,0.1,10747,21.5,Wednesday
+2024-09-24,San Francisco,Member,95.7,0.17,16437,20.3,Tuesday
+2024-03-15,New York,Member,71.8,0.09,16025,23.1,Friday
+2024-09-06,Chicago,Casual,55.7,0.17,10901,20.8,Friday
+2024-09-06,New York,Casual,54.4,0.44,15968,15.2,Friday
+2024-08-22,New York,Casual,47.7,0.12,8514,20.2,Thursday
+2024-09-06,New York,Member,50.6,0.06,14793,12.3,Friday
+2024-04-20,San Francisco,Casual,55.9,0.42,13273,16.7,Saturday
+2024-06-16,San Francisco,Member,89.5,0.22,14783,20.5,Sunday
+2024-04-24,Chicago,Member,57.0,0.14,10466,16.2,Wednesday
+2024-10-30,Chicago,Member,41.6,0.11,10632,30.3,Wednesday
+2024-05-03,San Francisco,Casual,60.6,0.06,19160,8.5,Friday
+2024-11-04,New York,Casual,62.7,0.16,17833,15.3,Monday
+2024-07-09,Chicago,Member,60.5,0.22,16206,13.3,Tuesday
+2024-10-15,San Francisco,Casual,72.0,0.29,17119,14.5,Tuesday
+2024-04-20,San Francisco,Member,61.0,0.21,16558,14.8,Saturday
+2024-07-13,San Francisco,Member,71.5,0.37,13149,11.4,Saturday
+2024-03-21,New York,Member,48.3,0.13,13814,21.8,Thursday
+2024-05-12,San Francisco,Member,86.7,0.05,10950,15.3,Sunday
+2024-08-14,San Francisco,Member,63.8,0.1,14082,18.8,Wednesday
+2024-03-18,San Francisco,Member,66.0,0.09,18010,15.8,Monday
+2024-07-10,San Francisco,Member,48.2,0.42,11105,14.5,Wednesday
+2024-05-28,Chicago,Member,67.1,0.01,17733,26.4,Tuesday
+2024-04-29,Chicago,Member,69.8,0.16,14746,22.6,Monday
+2024-03-14,San Francisco,Member,42.5,0.02,9503,8.7,Thursday
+2024-10-28,New York,Member,35.1,0.03,10022,8.1,Monday
+2024-11-05,Chicago,Member,64.4,0.28,16773,23.2,Tuesday
+2024-03-09,San Francisco,Member,52.7,0.08,15605,15.4,Saturday
+2024-05-29,Chicago,Member,63.9,0.24,14381,9.8,Wednesday
+2024-04-22,Chicago,Member,40.6,0.17,12461,23.2,Monday
+2024-07-08,New York,Member,36.6,0.65,12795,18.8,Monday
+2024-05-23,San Francisco,Casual,63.1,0.06,17044,19.3,Thursday
+2024-05-31,San Francisco,Member,54.8,0.04,18539,22.0,Friday
+2024-06-19,New York,Member,28.3,0.33,17043,11.5,Wednesday
+2024-09-04,New York,Casual,80.1,0.02,16279,9.8,Wednesday
+2024-09-15,San Francisco,Member,40.4,0.39,12320,25.9,Sunday
+2024-08-19,San Francisco,Member,98.6,0.17,16042,10.8,Monday
+2024-03-08,New York,Member,50.6,0.08,15430,11.9,Friday
+2024-08-22,Chicago,Member,66.0,0.05,16094,12.9,Thursday
+2024-04-04,Chicago,Casual,84.7,0.34,18631,28.4,Thursday
+2024-09-22,New York,Member,82.2,0.15,21335,20.5,Sunday
+2024-05-20,Chicago,Member,89.8,0.19,14596,22.8,Monday
+2024-08-11,New York,Member,37.2,0.21,19535,19.0,Sunday
+2024-04-19,Chicago,Casual,43.0,0.13,16976,15.0,Friday
+2024-06-12,Chicago,Member,63.4,0.2,13833,21.2,Wednesday
+2024-07-10,San Francisco,Member,72.6,0.08,19239,10.2,Wednesday
+2024-03-02,San Francisco,Member,59.8,0.09,19268,12.5,Saturday
+2024-07-12,Chicago,Casual,35.4,0.12,11795,21.7,Friday
+2024-04-23,Chicago,Member,67.4,0.16,19572,11.2,Tuesday
+2024-06-14,San Francisco,Member,57.1,0.24,17029,17.1,Friday
+2024-03-04,San Francisco,Member,56.9,0.16,21061,17.3,Monday
+2024-04-23,San Francisco,Member,25.8,0.04,11679,15.4,Tuesday
+2024-10-07,New York,Member,72.0,0.17,13479,8.2,Monday
+2024-09-07,Chicago,Member,62.2,0.11,8188,14.9,Saturday
+2024-07-24,San Francisco,Member,86.9,0.32,16549,13.9,Wednesday
+2024-10-04,Chicago,Member,58.9,0.03,15421,18.8,Friday
+2024-04-13,New York,Casual,68.5,0.11,12831,18.6,Saturday
+2024-08-09,New York,Casual,72.5,0.26,14134,19.9,Friday
+2024-09-18,San Francisco,Member,33.8,0.25,8918,14.6,Wednesday
+2024-09-06,New York,Casual,99.3,0.42,18727,20.6,Friday
+2024-10-14,Chicago,Member,53.5,0.06,12550,10.2,Monday
+2024-03-14,San Francisco,Member,67.4,0.08,23818,8.9,Thursday
+2024-06-03,Chicago,Member,69.6,0.04,14177,6.3,Monday
+2024-04-17,Chicago,Member,47.8,0.03,11573,15.5,Wednesday
+2024-03-15,New York,Member,87.7,0.23,13811,14.2,Friday
+2024-09-16,New York,Member,64.0,0.3,9724,21.9,Monday
+2024-09-22,New York,Member,56.8,0.07,15578,14.8,Sunday
+2024-10-01,New York,Member,62.1,0.11,13004,19.4,Tuesday
+2024-11-04,New York,Casual,71.5,0.36,17533,22.1,Monday
+2024-09-06,San Francisco,Casual,60.2,0.24,13103,14.6,Friday
+2024-04-09,Chicago,Member,73.2,0.27,18541,19.5,Tuesday
+2024-09-29,Chicago,Casual,34.7,0.37,14920,23.0,Sunday
+2024-09-24,Chicago,Casual,48.8,0.37,13297,11.8,Tuesday
+2024-10-23,Chicago,Casual,27.9,0.31,17236,18.1,Wednesday
+2024-05-21,New York,Member,90.0,0.13,18196,14.6,Tuesday
+2024-06-19,Chicago,Casual,89.8,0.02,24390,12.1,Wednesday
+2024-04-22,San Francisco,Member,69.4,0.12,13307,10.3,Monday
+2024-03-24,San Francisco,Casual,44.8,0.01,14001,12.0,Sunday
+2024-08-01,Chicago,Casual,95.8,0.29,19958,18.3,Thursday
+2024-10-03,Chicago,Member,50.9,0.04,9325,9.9,Thursday
+2024-09-04,San Francisco,Casual,56.8,0.17,17882,15.2,Wednesday
+2024-07-02,San Francisco,Casual,62.4,0.02,15773,22.1,Tuesday
+2024-10-23,New York,Casual,66.8,0.06,11887,20.2,Wednesday
+2024-04-10,San Francisco,Member,69.7,0.07,10558,15.3,Wednesday
+2024-08-04,New York,Member,70.3,0.37,12054,26.4,Sunday
+2024-03-15,New York,Member,57.8,0.03,7397,27.5,Friday
+2024-04-14,New York,Casual,70.0,0.37,12591,18.1,Sunday
+2024-05-04,New York,Member,57.2,0.44,15275,5.7,Saturday
+2024-05-28,New York,Member,68.7,0.37,12579,22.4,Tuesday
+2024-05-10,Chicago,Member,67.5,0.36,18144,6.5,Friday
+2024-03-09,San Francisco,Member,71.4,0.28,19275,25.4,Saturday
+2024-05-27,New York,Casual,69.6,0.3,18010,23.4,Monday
+2024-07-07,San Francisco,Casual,53.4,0.3,14227,26.9,Sunday
+2024-10-22,San Francisco,Member,66.9,0.09,7521,19.3,Tuesday
+2024-07-14,New York,Casual,69.8,0.41,11860,16.2,Sunday
+2024-10-02,Chicago,Member,40.6,0.36,12477,15.7,Wednesday
+2024-05-02,New York,Member,55.9,0.39,10774,15.3,Thursday
+2024-07-17,Chicago,Casual,69.1,0.28,13785,22.9,Wednesday
+2024-10-29,San Francisco,Member,85.6,0.14,19974,21.6,Tuesday
+2024-05-20,Chicago,Member,72.4,0.38,9198,18.6,Monday
+2024-07-14,Chicago,Casual,86.6,0.35,20199,14.4,Sunday
+2024-08-10,Chicago,Member,54.0,0.27,16274,31.1,Saturday
+2024-08-10,San Francisco,Member,63.8,0.43,14496,22.6,Saturday
+2024-04-02,San Francisco,Member,72.1,0.25,12243,10.0,Tuesday
+2024-07-01,Chicago,Member,25.1,0.06,10262,15.4,Monday
+2024-03-05,Chicago,Member,82.7,0.3,9829,22.7,Tuesday
+2024-10-20,New York,Member,32.1,0.15,18134,14.0,Sunday
+2024-10-17,Chicago,Casual,75.0,0.1,19412,19.8,Thursday
+2024-11-05,New York,Casual,70.3,0.23,10133,22.8,Tuesday
+2024-04-10,Chicago,Casual,24.9,0.07,11198,1.1,Wednesday
+2024-03-28,New York,Casual,25.7,0.1,14127,17.5,Thursday
+2024-07-13,San Francisco,Member,81.5,0.01,14341,17.7,Saturday
+2024-09-17,Chicago,Member,78.2,0.22,8931,15.9,Tuesday
+2024-05-11,Chicago,Member,46.8,0.21,11478,19.5,Saturday
+2024-03-12,Chicago,Member,46.8,0.06,19605,21.3,Tuesday
+2024-08-09,Chicago,Member,67.7,0.06,12818,18.7,Friday
+2024-04-02,New York,Member,59.8,0.16,13581,16.1,Tuesday
+2024-04-17,Chicago,Member,75.8,0.32,10956,21.2,Wednesday
+2024-11-02,San Francisco,Casual,67.2,0.27,15911,18.2,Saturday
+2024-07-29,San Francisco,Casual,83.7,0.04,15613,16.8,Monday
+2024-05-01,Chicago,Member,74.6,0.19,12377,11.4,Wednesday
+2024-10-02,San Francisco,Member,70.8,0.25,10418,10.2,Wednesday
+2024-04-06,Chicago,Member,54.7,0.22,17961,11.3,Saturday
+2024-06-07,Chicago,Casual,53.6,0.23,8867,19.4,Friday
+2024-08-19,San Francisco,Casual,59.2,0.05,15779,17.6,Monday
+2024-06-12,Chicago,Member,87.6,0.08,8882,10.6,Wednesday
+2024-09-30,San Francisco,Member,53.9,0.03,16217,21.2,Monday
+2024-10-05,New York,Member,63.9,0.26,16946,24.9,Saturday
+2024-04-04,Chicago,Member,26.3,0.15,16036,15.0,Thursday
+2024-09-09,New York,Member,70.1,0.11,14100,9.3,Monday
+2024-10-13,San Francisco,Member,93.9,0.15,20208,14.5,Sunday
+2024-06-09,New York,Casual,46.0,0.29,20183,22.3,Sunday
+2024-08-22,New York,Member,107.6,0.08,15179,20.7,Thursday
+2024-09-22,San Francisco,Member,62.7,0.11,12934,13.4,Sunday
+2024-07-09,New York,Casual,21.4,0.33,12643,25.6,Tuesday
+2024-03-01,New York,Casual,54.2,0.03,12674,24.7,Friday
+2024-03-05,San Francisco,Casual,80.0,0.22,12888,14.3,Tuesday
+2024-10-04,New York,Member,90.0,0.0,13989,14.3,Friday
+2024-11-02,San Francisco,Member,70.8,0.02,19939,15.0,Saturday
+2024-07-20,New York,Member,83.5,0.08,17495,15.5,Saturday
+2024-06-11,San Francisco,Member,42.3,0.2,11849,22.8,Tuesday
+2024-03-27,San Francisco,Member,49.8,0.34,5946,20.1,Wednesday
+2024-07-15,New York,Member,34.8,0.12,8518,22.4,Monday
+2024-09-23,New York,Member,50.9,0.2,15146,21.4,Monday
+2024-03-15,New York,Member,71.4,0.23,8031,26.6,Friday
+2024-05-29,Chicago,Member,63.2,0.59,14226,12.7,Wednesday
+2024-04-11,Chicago,Member,73.0,0.12,11483,19.9,Thursday
+2024-07-02,Chicago,Member,46.0,0.24,13635,7.1,Tuesday
+2024-09-21,San Francisco,Member,46.9,0.13,13807,11.4,Saturday
+2024-08-26,New York,Member,63.1,0.1,14685,17.6,Monday
+2024-05-02,San Francisco,Member,51.0,0.08,12696,20.1,Thursday
+2024-06-04,Chicago,Member,79.5,0.29,13318,17.5,Tuesday
+2024-10-17,New York,Member,50.6,0.38,11101,15.2,Thursday
+2024-10-27,San Francisco,Member,52.6,0.24,15075,16.1,Sunday
+2024-04-21,New York,Member,66.3,0.07,16927,24.8,Sunday
+2024-06-04,San Francisco,Member,54.2,0.33,9851,16.1,Tuesday
+2024-07-10,New York,Casual,41.5,0.2,13105,26.7,Wednesday
+2024-10-08,Chicago,Member,43.5,0.04,14249,22.0,Tuesday
+2024-10-15,Chicago,Member,68.1,0.02,15235,20.3,Tuesday
+2024-07-29,New York,Casual,39.6,0.09,13904,12.0,Monday
+2024-10-17,San Francisco,Member,81.0,0.2,13633,22.7,Thursday
+2024-10-23,Chicago,Casual,49.6,0.06,14701,15.5,Wednesday
+2024-07-21,Chicago,Member,69.2,0.08,16462,12.0,Sunday
+2024-08-18,Chicago,Member,50.5,0.29,13863,20.6,Sunday
+2024-03-29,New York,Member,46.3,0.05,15269,11.1,Friday
+2024-04-05,New York,Casual,63.7,0.12,17279,14.2,Friday
+2024-03-13,San Francisco,Member,75.8,0.21,9059,17.9,Wednesday
+2024-08-07,San Francisco,Casual,56.3,0.11,16862,29.1,Wednesday
+2024-05-10,San Francisco,Member,59.0,0.11,15167,14.6,Friday
+2024-09-03,New York,Casual,72.1,0.31,10929,15.7,Tuesday
+2024-10-29,New York,Member,72.6,0.13,17051,21.7,Tuesday
+2024-05-25,San Francisco,Casual,59.4,0.27,12641,11.8,Saturday
+2024-03-28,San Francisco,Member,53.3,0.21,12926,20.2,Thursday
+2024-05-05,New York,Member,61.2,0.5,11924,24.0,Sunday
+2024-08-17,San Francisco,Member,57.1,0.18,14831,16.5,Saturday
+2024-04-14,Chicago,Member,64.7,0.23,11771,23.1,Sunday
+2024-05-01,New York,Member,42.1,0.32,15748,19.5,Wednesday
+2024-09-01,San Francisco,Member,64.2,0.11,13931,14.3,Sunday
+2024-10-31,New York,Member,49.2,0.03,12815,17.0,Thursday
+2024-07-12,Chicago,Member,73.6,0.01,17182,16.1,Friday
+2024-03-28,New York,Casual,49.9,0.01,13017,17.6,Thursday
+2024-03-28,New York,Casual,50.2,0.09,16672,18.8,Thursday
+2024-06-16,New York,Member,66.7,0.16,17286,20.9,Sunday
+2024-04-13,New York,Casual,60.2,0.03,10343,20.5,Saturday
+2024-05-23,Chicago,Casual,94.1,0.14,18811,5.8,Thursday
+2024-03-30,New York,Member,35.6,0.07,8897,17.5,Saturday
+2024-09-06,New York,Member,61.6,0.09,17798,10.5,Friday
+2024-05-14,San Francisco,Member,76.9,0.21,20741,16.6,Tuesday
+2024-07-06,New York,Member,51.3,0.01,16656,17.4,Saturday
+2024-11-05,San Francisco,Member,46.3,0.23,6921,22.9,Tuesday
+2024-11-02,Chicago,Member,46.9,0.41,16246,17.8,Saturday
+2024-05-31,Chicago,Casual,35.8,0.17,19830,19.3,Friday
+2024-10-03,Chicago,Casual,80.2,0.06,14178,22.0,Thursday
+2024-10-17,Chicago,Member,55.1,0.02,14059,24.1,Thursday
+2024-09-06,San Francisco,Member,53.3,0.05,10466,17.4,Friday
+2024-10-11,New York,Member,28.1,0.02,14020,18.5,Friday
+2024-07-07,Chicago,Member,38.5,0.1,17147,18.1,Sunday
+2024-06-29,New York,Member,82.0,0.13,17113,15.3,Saturday
+2024-03-27,San Francisco,Casual,64.5,0.06,23885,14.2,Wednesday
+2024-09-06,San Francisco,Member,77.5,0.14,14919,6.6,Friday
+2024-06-29,San Francisco,Casual,75.6,0.34,9451,12.6,Saturday
+2024-06-24,Chicago,Casual,45.0,0.05,14212,9.1,Monday
+2024-09-21,New York,Member,96.4,0.14,8326,24.3,Saturday
+2024-10-19,New York,Casual,89.2,0.02,13928,18.9,Saturday
+2024-03-03,New York,Member,51.5,0.25,18433,17.4,Sunday
+2024-06-11,San Francisco,Member,6.5,0.24,12755,14.4,Tuesday
+2024-09-14,Chicago,Member,54.7,0.2,14326,18.1,Saturday
+2024-09-16,San Francisco,Casual,63.6,0.02,19966,13.8,Monday
